@@ -12,7 +12,7 @@
 
 <script>
 import Logo from "../assets/logo.png";
-import Button from "./ButtonComponent.vue";
+import Button from "@/components/ButtonComponent.vue";
 
 export default {
     components: {

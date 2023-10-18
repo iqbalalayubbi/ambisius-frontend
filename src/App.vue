@@ -2,4 +2,4 @@
     <RouterView />
 </template>
 
-<script setup></script>
+<script></script>

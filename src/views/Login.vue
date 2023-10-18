@@ -22,8 +22,8 @@
 <script>
 import Logo from "../assets/logo.png";
 import Google from "../assets/google.png";
-import Button from "../components/ButtonComponent.vue";
-import InputFill from "../components/InputFill.vue";
+import Button from "@/components/ButtonComponent.vue";
+import InputFill from "@/components/InputFill.vue";
 
 export default {
     components: {

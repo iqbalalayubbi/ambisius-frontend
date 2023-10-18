@@ -10,10 +10,10 @@
 </template>
 
 <script>
-import NavbarHomeVue from "../components/NavbarHome.vue";
-import NavbarLeftHome from "../components/NavbarLeftHome.vue";
-import NavbarTopHomeVue from "../components/NavbarTopHome.vue";
-import CardPostHome from "../components/PostHome.vue";
+import NavbarHomeVue from "@/components/NavbarHome.vue";
+import NavbarLeftHome from "@/components/NavbarLeftHome.vue";
+import NavbarTopHomeVue from "@/components/NavbarTopHome.vue";
+import CardPostHome from "@/components/PostHome.vue";
 
 export default {
     components: {

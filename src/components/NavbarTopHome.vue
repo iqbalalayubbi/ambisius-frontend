@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import InputFill from "./InputFill.vue";
+import InputFill from "@/components/InputFill.vue";
 import Logo from "../assets/logo.png";
 
 export default {

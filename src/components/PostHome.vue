@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import CardPostVue from "./CardPost.vue";
+import CardPostVue from "@/components/CardPost.vue";
 
 export default {
     components: {
