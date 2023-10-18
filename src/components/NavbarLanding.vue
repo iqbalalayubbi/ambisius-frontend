@@ -1,18 +1,18 @@
 <template>
-    <nav class="h-[10%] flex justify-between items-center px-10">
+    <nav class="h-[6%] xl:h-[10%] flex justify-between items-center px-10">
         <div>
-            <img :src="Logo" alt="" width="50" />
+            <img :src="Logo" alt="" class="md:w-10 w-8" />
         </div>
-        <div class="flex gap-10">
-            <button>Masuk</button>
-            <Button class="w-28 py-1" value="daftar" />
+        <div class="flex gap-5 md:gap-5 text-sm">
+            <button @click="this.$router.push('/masuk')">Masuk</button>
+            <Button class="w-20 md:w-24 py-1" value="daftar" @click="this.$router.push('/daftar')" />
         </div>
     </nav>
 </template>
 
 <script>
 import Logo from "../assets/logo.png";
-import Button from "./Button.vue";
+import Button from "./ButtonComponent.vue";
 
 export default {
     components: {

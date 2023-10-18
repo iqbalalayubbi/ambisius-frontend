@@ -18,7 +18,7 @@
                 <span class="ml-5">Peringkat</span>
             </div>
         </div>
-        <div class="mb-10 self-center bg-primary flex items-center px-5 py-1 rounded-xl gap-3 text-white">
+        <div class="mt-40 w-3/4 self-center mx-auto bg-primary flex items-center px-5 py-1 rounded-xl gap-3 text-white">
             <Icon icon="material-symbols:logout" class="rotate-180" />
             <Button value="Keluar" />
         </div>
@@ -26,7 +26,7 @@
 </template>
 
 <script>
-import Button from "./Button.vue";
+import Button from "./ButtonComponent.vue";
 
 export default {
     components: {

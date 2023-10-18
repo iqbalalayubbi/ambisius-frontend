@@ -1,5 +1,7 @@
 <template>
-    <button class="rounded-md bg-primary text-white">{{ value }}</button>
+    <button class="rounded-md bg-primary text-white text-center">
+        {{ value }}
+    </button>
 </template>
 
 <script>

@@ -1,5 +1,5 @@
 <template>
-    <section class="w-1/2 flex flex-col gap-5 items-center">
+    <section class="w-full sm:w-1/2 flex flex-col gap-5 items-center">
         <CardPostVue />
     </section>
 </template>

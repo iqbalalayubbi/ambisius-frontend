@@ -2,9 +2,9 @@
     <div class="bg-[#D8D8D8] min-h-screen relative">
         <NavbarTopHomeVue class="h-[10%] fixed z-10 w-full" />
         <div class="flex h-[90%] justify-center">
-            <NavbarHomeVue class="fixed h-full left-0" />
+            <NavbarHomeVue class="fixed h-full left-0 hidden sm:block" />
             <CardPostHome class="mt-28" />
-            <NavbarLeftHome class="fixed h-full right-0" />
+            <NavbarLeftHome class="fixed h-full right-0 hidden sm:block" />
         </div>
     </div>
 </template>
