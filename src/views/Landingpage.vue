@@ -11,7 +11,7 @@
 import NavbarLanding from "@/components/NavbarLanding.vue";
 import Jumbotron from "@/components/Jumbotron.vue";
 import CardInfoLanding from "@/components/CardInfoLanding.vue";
-import FooterLanding from "@/components/footerLanding.vue";
+import FooterLanding from "@/components/FooterLanding.vue";
 
 export default {
     components: { NavbarLanding, Jumbotron, CardInfoLanding, FooterLanding },
