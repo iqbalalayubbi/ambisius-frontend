@@ -7,9 +7,9 @@
             <p>Documentation</p>
         </div>
         <div class="flex flex-row gap-4">
-            <img src="../assets/figma.svg" alt="ilustrasi" class="" />
+            <!-- <img src="../assets/figma.svg" alt="ilustrasi" class="" />
             <img src="../assets/twitter.svg" alt="ilustrasi" class="" />
-            <img src="../assets/instagram.svg" alt="ilustrasi" class="" />
+            <img src="../assets/instagram.svg" alt="ilustrasi" class="" /> -->
         </div>
         <p>© 2023 Ambisius, Inc. All rights reserved.</p>
     </footer>
